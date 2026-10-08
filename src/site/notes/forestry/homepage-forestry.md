@@ -10,8 +10,8 @@ Hi! I’m Xu WANG (王旭), a Ph.D student of mathematics at _Qiuzhen college_ o
 
 # 🏞️ travels and hikings
 
-- 01-03/05/2026, climbing Gangshka Snow Peak(岗什卡雪峰三峰5005m) in Qinghai, China.
-- 26/07-03/08/2026, climbing Damaya(大玛雅5417m) and Xiaomaya(小玛雅5205m) in Sichuang, China.
+- 01-03/05/2026, climbing the third subsidiary peak of the Gangshka Snow Peak (岗什卡雪峰三峰, 5005m) in Qinghai, China.
+- 26/07-03/08/2026, climbing Damaya (大玛雅, 5417m) and Xiaomaya(小玛雅, 5205m), two of the subsidiary peaks of the Longji Peak(日果冷觉) in Sichuang, China.
 
 # 🎢 hobbies 
 
@@ -21,5 +21,5 @@ I watch films and series, here are my all-time-best:
 - fims: [The Fall](https://www.imdb.com/title/tt0460791/), [Подземље/Underground](https://www.imdb.com/title/tt0114787/), [Offret/The Sacrifice](https://www.imdb.com/title/tt0091670/), [秋刀魚の味/An Autumn Afternoon](https://www.imdb.com/title/tt0056444/), [一一/Yi Yi](https://www.imdb.com/title/tt0244316/)
 You can find me on [Letterboxd](https://boxd.it/dpmqj).
 
->[!note]  contact
+# ✉️ contact
 drop me anything via [*quiddite4dino@gmail.com*](mailto:quiddite4dino@gmail.com), let’s keep in touch ^_^
