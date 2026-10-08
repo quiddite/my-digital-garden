@@ -3,4 +3,4 @@
 ---
 
 
-dir: https://quiddite.github.io/notes_/
+dir: https://quiddite.github.io/notes/
