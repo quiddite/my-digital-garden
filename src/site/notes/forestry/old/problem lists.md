@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/old/problem-lists/","title":"problem lists","tags":["problems"],"dg-note-properties":{"title":"problem lists","date":"2026-08-08 14:42:43","tags":"problems","categories":"open problems","archive":false}}
+{"dg-publish":true,"dg-path":"old/problem lists.md","permalink":"/old/problem-lists/","title":"problem lists","tags":["problems"],"dg-note-properties":{"title":"problem lists","date":"2026-08-08 14:42:43","tags":"problems","categories":"open problems","archive":false}}
 ---
 
 

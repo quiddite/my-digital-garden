@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/old/qe/","title":"QE","tags":["resources"],"dg-note-properties":{"title":"QE","date":"2025-03-01 10:00:00","tags":"resources","categories":"qe","archive":true}}
+{"dg-publish":true,"dg-path":"old/QE.md","permalink":"/old/qe/","title":"QE","tags":["resources"],"dg-note-properties":{"title":"QE","date":"2025-03-01 10:00:00","tags":"resources","categories":"qe","archive":true}}
 ---
 
 

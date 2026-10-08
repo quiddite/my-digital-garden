@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/homepage-forestry/","title":"Xu WANG's homepage","tags":["gardenEntry"],"dg-note-properties":{"title":"Xu WANG's homepage"}}
+{"dg-publish":true,"dg-path":"homepage-forestry.md","permalink":"/homepage-forestry/","title":"Xu WANG's homepage","tags":["gardenEntry"],"dg-note-properties":{"title":"Xu WANG's homepage"}}
 ---
 
 
@@ -33,4 +33,4 @@ drop me anything via “[_wangx24@mails.tsinghua.edu.cn_](mailto:wangx24@mails.t
 [No. 30, Shuangqing road, Haidian district, Beijing, P.R. China](https://maps.app.goo.gl/2rFaeYXojM1GZP9T8)
 
 
-Welcome to this site ([quiddite.forestry.md](quiddite.forestry.md))! Since this site is maintained by *forestry.md*, I have limited chance to publish articles every month. All the pages are also maintained on [https://my-digital-garden-kpbqlccx4-quiddite.vercel.app](https://my-digital-garden-kpbqlccx4-quiddite.vercel.app), which is more up-to-date.
+Welcome to this site ([quiddite.forestry.md](https://quiddite.forestry.md/))! Since this site is maintained by *forestry.md*, I have limited chance to publish articles every month. All the pages are also maintained on [https://my-digital-garden-pi-mauve.vercel.app](https://my-digital-garden-pi-mauve.vercel.app), which is more up-to-date.

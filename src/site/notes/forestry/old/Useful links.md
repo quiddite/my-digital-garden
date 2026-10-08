@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/old/useful-links/","title":"Useful links","tags":["misc"],"dg-note-properties":{"title":"Useful links","date":"2025-03-10 20:55:21","tags":"misc","categories":"math"}}
+{"dg-publish":true,"dg-path":"old/Useful links.md","permalink":"/old/useful-links/","title":"Useful links","tags":["misc"],"dg-note-properties":{"title":"Useful links","date":"2025-03-10 20:55:21","tags":"misc","categories":"math"}}
 ---
 
 

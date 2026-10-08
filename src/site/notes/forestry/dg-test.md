@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/dg-test/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"dg-test.md","permalink":"/dg-test/","dg-note-properties":{}}
 ---
 
 

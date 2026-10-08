@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/old/g2tlearning/","title":"G2T learning materials","tags":["g2t"],"dg-note-properties":{"title":"G2T learning materials","date":"2025-06-07 16:45:02","tags":"g2t","categories":"math","archive":true}}
+{"dg-publish":true,"dg-path":"old/g2tlearning.md","permalink":"/old/g2tlearning/","title":"G2T learning materials","tags":["g2t"],"dg-note-properties":{"title":"G2T learning materials","date":"2025-06-07 16:45:02","tags":"g2t","categories":"math","archive":true}}
 ---
 
 

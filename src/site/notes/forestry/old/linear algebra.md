@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/old/linear-algebra/","title":"linear algebra","tags":["resources"],"dg-note-properties":{"title":"linear algebra","date":"2024-12-08 20:51:10","tags":"resources","categories":"math"}}
+{"dg-publish":true,"dg-path":"old/linear algebra.md","permalink":"/old/linear-algebra/","title":"linear algebra","tags":["resources"],"dg-note-properties":{"title":"linear algebra","date":"2024-12-08 20:51:10","tags":"resources","categories":"math"}}
 ---
 
 

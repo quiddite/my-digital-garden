@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/old/hello-world/","title":"Hello World","tags":["greeting"],"dg-note-properties":{"title":"Hello World","tags":"greeting"}}
+{"dg-publish":true,"dg-path":"old/hello-world.md","permalink":"/old/hello-world/","title":"Hello World","tags":["greeting"],"dg-note-properties":{"title":"Hello World","tags":"greeting"}}
 ---
 
 Welcome to [Hexo](https://hexo.io/)! This is my very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).

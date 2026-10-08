@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/blog/blog-index/","title":"index","tags":["blog"],"dg-note-properties":{"title":"index","date":"2026-10","tags":["blog"],"categories":"blog","mathjax":true}}
+{"dg-publish":true,"dg-path":"blog/blog-index.md","permalink":"/blog/blog-index/","title":"index","tags":["blog"],"dg-note-properties":{"title":"index","date":"2026-10","tags":["blog"],"categories":"blog","mathjax":true}}
 ---
 
 

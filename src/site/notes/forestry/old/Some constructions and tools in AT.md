@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/old/some-constructions-and-tools-in-at/","title":"Some frequently used  constructions (functors) and tools in AT","tags":["at"],"dg-note-properties":{"title":"Some frequently used  constructions (functors) and tools in AT","date":"2025-05-25 23:40:27","tags":"at","categories":"math"}}
+{"dg-publish":true,"dg-path":"old/Some constructions and tools in AT.md","permalink":"/old/some-constructions-and-tools-in-at/","title":"Some frequently used  constructions (functors) and tools in AT","tags":["at"],"dg-note-properties":{"title":"Some frequently used  constructions (functors) and tools in AT","date":"2025-05-25 23:40:27","tags":"at","categories":"math"}}
 ---
 
 ### spaces

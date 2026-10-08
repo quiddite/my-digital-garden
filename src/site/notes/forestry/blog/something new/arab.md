@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forestry/blog/something-new/arab/","title":"Learning arabic","tags":["snew","languages"],"dg-note-properties":{"title":"Learning arabic","date":"2026-07","tags":["snew","languages"],"categories":"blog","mathjax":true}}
+{"dg-publish":true,"dg-path":"blog/something new/arab.md","permalink":"/blog/something-new/arab/","title":"Learning arabic","tags":["snew","languages"],"dg-note-properties":{"title":"Learning arabic","date":"2026-07","tags":["snew","languages"],"categories":"blog","mathjax":true}}
 ---
 
 
