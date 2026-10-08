@@ -11,7 +11,9 @@ Welcome to my blog! All the pages are maintained on [quiddite.forestry.md](https
 
 # 🎢 hobbies 
 
-I enjoy _rock climbing_ and _mountaineering_.![pasted-image-1791270734458.png\|lead climbing in Baihe, Beijing](/img/user/assets/pasted-image-1791270734458.png)
+I enjoy _rock climbing_ and _mountaineering_. 
+This photo was taken during a climbing in 白河/Baihe, Beijing.
+![pasted-image-1791270734458.png](/img/user/assets/pasted-image-1791270734458.png)
 I watch films and series, here are my all-time-best:
 - series: [The Office](https://www.imdb.com/title/tt0386676/), [The Big Bang Theory](https://www.imdb.com/title/tt0898266/)
 - fims: [The Fall](https://www.imdb.com/title/tt0460791/), [Подземље/Underground](https://www.imdb.com/title/tt0114787/), [Offret/The Sacrifice](https://www.imdb.com/title/tt0091670/), [秋刀魚の味/An Autumn Afternoon](https://www.imdb.com/title/tt0056444/), [一一/Yi Yi](https://www.imdb.com/title/tt0244316/)
