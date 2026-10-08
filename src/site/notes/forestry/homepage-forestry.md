@@ -20,4 +20,5 @@ I watch films and series, here are my all-time-best:
 You can find me on [Letterboxd](https://boxd.it/dpmqj).
 
 # ✉️ contact
-drop me anything via [*quiddite4dino@gmail.com*](mailto:quiddite4dino@gmail.com), let’s keep in touch ^_^
+
+Drop me anything via [*quiddite4dino@gmail.com*](mailto:quiddite4dino@gmail.com), let’s keep in touch ^_^.
