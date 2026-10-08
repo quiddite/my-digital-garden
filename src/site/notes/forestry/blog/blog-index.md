@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/forestry/blog/blog-index/","title":"index","tags":["blog"],"dg-note-properties":{"title":"index","date":"2026-10","tags":["blog"],"categories":"blog","mathjax":true}}
+---
+
+
+I would like to write something here, in 中文 or English, to record many moments and thoughts in life.
+
+One particular aim is to keep trying *something new*, good/bad things are always around the corner.
+
+# something new
+[[forestry/blog/something new/arab\|arab]]
+
