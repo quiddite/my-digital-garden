@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"homepage-forestry.md","permalink":"/homepage-forestry/","title":"Xu WANG's homepage","tags":["gardenEntry"],"dg-note-properties":{"title":"Xu WANG's homepage"}}
+{"dg-publish":true,"dg-path":"homepage-forestry.md","permalink":"/homepage-forestry/","title":"the blog of quiddite","tags":["gardenEntry"],"dg-note-properties":{"title":"the blog of quiddite"}}
 ---
 
 Welcome to my blog! All the pages are maintained on [quiddite.forestry.md](https://quiddite.forestry.md/) and [quiddite.vercel.app](https://quiddite.vercel.app), and the *latter* one is updated more frequently.
-
-# 👀 about me
-
-Hi! I’m Xu WANG (王旭), a Ph.D student of mathematics at _Qiuzhen college_ of Tsinghua University, Beijing.
 
 # 🏞️ travels and hikings
 
