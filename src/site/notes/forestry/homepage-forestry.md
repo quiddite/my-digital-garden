@@ -2,35 +2,24 @@
 {"dg-publish":true,"dg-path":"homepage-forestry.md","permalink":"/homepage-forestry/","title":"Xu WANG's homepage","tags":["gardenEntry"],"dg-note-properties":{"title":"Xu WANG's homepage"}}
 ---
 
+Welcome to my blog! All the pages are maintained on [quiddite.forestry.md](https://quiddite.forestry.md/) and [quiddite.vercel.app](https://quiddite.vercel.app), and the *latter* one is updated more frequently.
 
 # 👀 about me
 
-Hi! I’m Xu WANG (王旭), a Ph.D student at _Qiuzhen college_ of Tsinghua University, Beijing, from 09/2024. Previously, I graduated from _Hua Loo-Keng class_ of school of mathematical sciences at Beihang university (BUAA) in 2024.
+Hi! I’m Xu WANG (王旭), a Ph.D student of mathematics at _Qiuzhen college_ of Tsinghua University, Beijing.
 
-My research interest lies in hyperbolic geometry and geometric group theory, especially the metric side of Teichmüller theory and convexity.
+# 🏞️ travels and hikings
 
-See [_here_](https://cloud.tsinghua.edu.cn/f/7af539f5e4a841b694af/) for my transcript at Tsinghua, and [_here_](https://cloud.tsinghua.edu.cn/f/cb8a977e7c3b4b628162/) for my transcript at Beihang.
+- 01-03/05/2026, climbing Gangshka Snow Peak(岗什卡雪峰三峰5005m) in Qinghai, China.
+- 26/07-03/08/2026, climbing Damaya(大玛雅5417m) and Xiaomaya(小玛雅5205m) in Sichuang, China.
 
-# 🚇 travels since 2024 (outside Beijing)
+# 🎢 hobbies 
 
-- 08-19/07/2024, [*summer school in geometry*](https://igp.ustc.edu.cn/2024/0409/c28839a637608/page.htm), Hefei, China.
-- 03-06/01/2025, [_ICCM 2024_](https://2024iccm.simis.cn/), Shanghai, China.
-- 04-10/04/2026, [*Teichmüller theory and related topics*](https://shinpeibaba.com/Teichmueller2026/TouristAttraction.php), Hefei, China.
-- 22-26/06/2026, [_geometry and topology of surfaces_](https://math.gsu.edu.tr/gt2026/), Istanbul, Turkey.
-- 31/08-03/09/2026, [_remarkable developments on hyperbolic geometry_](https://ahdoc.github.io/hyperbolic2026shijiazhuang/), Shijiazhuang, China.
-
-# 🏫 TA experiences since 2024
-
-- spring/2024: _linear algebra_ & _functions of real variables_@Beihang
-- autumn/2024: _algebra 1(AI)_@Tsinghua
-- spring/2025: _real analysis_@Tsinghua
-- autumn/2026: _topology_@Tsinghua
-![pasted-image-1791270734458.png](/img/user/assets/pasted-image-1791270734458.png)
-[I enjoy _rock climbing_ and _mountaineering_. I also watch films](pasted-image-1791270734458.png)
+I enjoy _rock climbing_ and _mountaineering_.![pasted-image-1791270734458.png\|lead climbing in Baihe, Beijing](/img/user/assets/pasted-image-1791270734458.png)
+I watch films and series, here are my all-time-best:
+- series: [The Office](https://www.imdb.com/title/tt0386676/), [The Big Bang Theory](https://www.imdb.com/title/tt0898266/)
+- fims: [The Fall](https://www.imdb.com/title/tt0460791/), [Подземље/Underground](https://www.imdb.com/title/tt0114787/), [Offret/The Sacrifice](https://www.imdb.com/title/tt0091670/), [秋刀魚の味/An Autumn Afternoon](https://www.imdb.com/title/tt0056444/), [一一/Yi Yi](https://www.imdb.com/title/tt0244316/)
+You can find me on [Letterboxd](https://boxd.it/dpmqj).
 
 >[!note]  contact
-drop me anything via “[_wangx24@mails.tsinghua.edu.cn_](mailto:wangx24@mails.tsinghua.edu.cn)”, or “[_quiddite4dino@gmail.com_](mailto:quiddite4dino@gmail.com)”, let’s keep in touch ^_^
-[No. 30, Shuangqing road, Haidian district, Beijing, P.R. China](https://maps.app.goo.gl/2rFaeYXojM1GZP9T8)
-
-
-Welcome to my blog! All the pages are maintained on [quiddite.forestry.md](https://quiddite.forestry.md/) and [quiddite.vercel.app](https://quiddite.vercel.app), and the *latter* one is updated more frequently.
+drop me anything via [*quiddite4dino@gmail.com*](mailto:quiddite4dino@gmail.com), let’s keep in touch ^_^
