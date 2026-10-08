@@ -4,17 +4,17 @@
 
 Welcome to my blog! All the pages are maintained on [quiddite.forestry.md](https://quiddite.forestry.md/) and [quiddite.vercel.app](https://quiddite.vercel.app), and the *latter* one is updated more frequently.
 
-# 🏞️ travels and hikings
+# 🏞️ un-limited life
 
 ## hikings
 
-I go out with the mountaineering club sometimes, mostly around Beijing.
+I go out with the mountaineering&hiking club sometimes, mostly around Beijing.
 I regard it as a lifestyle, and a cure for stress.
 
 ## mountaineering experiences
 
 - 01-03/05/2026, climbing the third subsidiary peak of the Gangshka Snow Peak (岗什卡雪峰三峰, 5005m) in Qinghai, China.
-- 26/07-03/08/2026, climbing Damaya (大玛雅, 5417m) and Xiaomaya(小玛雅, 5205m), two of the subsidiary peaks of the Longji Peak(日果冷觉) in Sichuang, China.
+- 26/07-03/08/2026, climbing Damaya (大玛雅, 5417m) and Xiaomaya(小玛雅, 5205m), two of the subsidiary peaks of the Longji Peak(日果冷觉, 5523m) in Sichuang, China.
 
 # 🎢 hobbies 
 
