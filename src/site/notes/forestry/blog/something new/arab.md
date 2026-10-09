@@ -4,3 +4,7 @@
 
 
 I want to know more about arabic culture, so I start to learn Arabic on Duolingo.
+
+- sep. 12
+	- I decide to take the Arabic-1 course, which is for beginers
+- oct. 9
