@@ -3,5 +3,8 @@
 ---
 
 
-What OpenAI has done is astonishing!!! https://github.com/openai/math
+>What OpenAI has done is astonishing!!! https://github.com/openai/math
 Here is a [website](https://kisonecat.github.io/openai-math/) with more readable content, concerning this repository
+
+I talked to friends about this, thinking about the future of math, and of course, of myself. Things are going to change, that is (probably) the only thing I know.
+
