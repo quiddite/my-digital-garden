@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/something new/new tooth brush.md","permalink":"/blog/something-new/new-tooth-brush/","title":"New tooth brush","tags":["snew","languages"],"dg-note-properties":{"title":"New tooth brush","date":"2026-09","tags":["snew","languages"],"categories":"blog","mathjax":true}}
+{"dg-publish":true,"dg-path":"blog/something new/new tooth brush.md","permalink":"/blog/something-new/new-tooth-brush/","title":"New tooth brush","tags":["snew","lifestyles"],"dg-note-properties":{"title":"New tooth brush","date":"2026-09","tags":["snew","lifestyles"],"categories":"blog","mathjax":true}}
 ---
 
 
