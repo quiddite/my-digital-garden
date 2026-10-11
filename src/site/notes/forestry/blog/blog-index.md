@@ -10,3 +10,7 @@ One particular aim is to keep trying *something new*, good/bad things are always
 # something new
 [[forestry/blog/something new/arab\|arab]]
 [[forestry/blog/something new/new tooth brush\|new tooth brush]]
+
+# random thoughts
+
+[[forestry/blog/random thoughts/on AI and math\|on AI and math]]
