@@ -23,7 +23,7 @@ I regard it as a lifestyle, and a cure for stress.
 - 28/03/2026, sport climbing at Baihe (monster, a hundred thousand climbers 小怪 十万岩友), Beijing (15 ppl).
 - 23-25/04/2026, sport climbing at Baihe (second floor, third floor, fourth floor, 二楼 三楼 四楼), Beijing (learning to lead).
 - 21/06/2026, multi-pitch climbing at Fenghuangling (凤凰岭百鸟朝凤), Beijing (6 ppl).
-- 29/08/2026, sport climbing at Longan (龙安), Beijing/Hebei (9 ppl).
+- 29/08/2026, sport climbing at Longan (龙安), Hebei$\cup$Beijing (9 ppl).
 - 13/09/2026, sport climbing at Baihe (second floor 二楼), Beijing (5 ppl).
 - 03/10/2026, multi-pitch climbing at Houhuayuan (woniuling 卧牛岭), Beijing (5 ppl).
 
