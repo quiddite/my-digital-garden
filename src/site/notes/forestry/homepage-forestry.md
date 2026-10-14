@@ -16,6 +16,17 @@ I regard it as a lifestyle, and a cure for stress.
 - 01-03/05/2026, climbing the third subsidiary peak of the Gangshka Snow Peak (岗什卡雪峰三峰, 5005m) in Qinghai, China.
 - 26/07-03/08/2026, climbing Damaya (大玛雅, 5417m) and Xiaomaya(小玛雅, 5205m), two of the subsidiary peaks of the Longji Peak(日果冷觉, 5523m) in Sichuang, China.
 
+## climbing experiences
+
+- 10-11/01/2026, ice tooling at Huyu, Beijing.
+- 25/01/2026, ice tooling at Huyu, Beijing.
+- 28/03/2026, sport climbing at Baihe (monster, a hundred thousand climbers 小怪 十万岩友), Beijing (15 ppl).
+- 23-25/04/2026, sport climbing at Baihe (second floor, third floor, fourth floor, 二楼 三楼 四楼), Beijing (learning to lead).
+- 21/06/2026, multi-pitch climbing at Fenghuangling (凤凰岭百鸟朝凤), Beijing (6 ppl).
+- 29/08/2026, sport climbing at Longan (龙安), Beijing/Hebei (9 ppl).
+- 13/09/2026, sport climbing at Baihe (second floor 二楼), Beijing (5 ppl).
+- 03/10/2026, multi-pitch climbing at Houhuayuan (woniuling 卧牛岭), Beijing (5 ppl).
+
 # 🎢 hobbies 
 
 I enjoy _rock climbing_ and _mountaineering_. 
