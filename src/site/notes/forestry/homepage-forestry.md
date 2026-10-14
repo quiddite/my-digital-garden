@@ -16,7 +16,7 @@ I regard it as a lifestyle, and a cure for stress.
 - 01-03/05/2026, climbing the third subsidiary peak of the Gangshka Snow Peak (岗什卡雪峰三峰, 5005m) in Qinghai, China.
 - 26/07-03/08/2026, climbing Damaya (大玛雅, 5417m) and Xiaomaya(小玛雅, 5205m), two of the subsidiary peaks of the Longji Peak(日果冷觉, 5523m) in Sichuang, China.
 
-## climbing experiences
+## climbing for fun
 
 - 10-11/01/2026, ice tooling at Huyu, Beijing.
 - 25/01/2026, ice tooling at Huyu, Beijing.
